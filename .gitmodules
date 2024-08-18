@@ -1,0 +1,3 @@
+[submodule "logos/2020/kitsune"]
+	path = logos/2020/kitsune
+	url = https://github.com/leolesinski/google-kitsune.git
